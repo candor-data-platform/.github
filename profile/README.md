@@ -1,4 +1,4 @@
-# 🚀 Candor Data Platform
+# Candor Data Platform
 
 **AI-powered ETL IDE that converts natural language into production-ready data pipelines**
 
